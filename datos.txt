@@ -2,4 +2,6 @@
 Pruebas
 SOY CARLOS ORTEGA
 
-YEAH
+Esto es un ejercicio de mi curso de git
+Pruebas
+Y mas pruebas 
