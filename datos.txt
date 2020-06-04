@@ -3,5 +3,4 @@ Pruebas
 SOY CARLOS ORTEGA
 
 Esto es un ejercicio de mi curso de git
-Pruebas
-Y mas pruebas 
+Implementando html con hojas de estilo css
