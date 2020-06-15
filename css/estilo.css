@@ -1,6 +1,5 @@
 body
 {
-    background: #1e1f24;
     color: black;
     text-align: center;
     font-family: Arial;
@@ -19,11 +18,6 @@ body
     padding: 0.5em;
 }
 
-#cabecera #logo
-{
-    width: 35px;
-    vertical-align: middle;
-}
 
 #cabecera #tagline
 {
